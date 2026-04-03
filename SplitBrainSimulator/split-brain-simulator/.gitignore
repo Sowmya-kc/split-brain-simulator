@@ -1,0 +1,9 @@
+# Java
+Backend/out/
+Backend/.idea/
+*.class
+*.jar
+
+# React
+splitbrain-frontend/node_modules/
+splitbrain-frontend/build/
